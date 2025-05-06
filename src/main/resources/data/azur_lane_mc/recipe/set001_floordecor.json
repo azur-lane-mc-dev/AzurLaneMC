@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "W": "minecraft:white_carpet",
+    "G": "minecraft:green_carpet"
+  },
+  "pattern": [
+    "GGG",
+    "GWG",
+    "WWW"
+  ],
+  "result": {
+    "count": 1,
+    "id": "azur_lane_mc:set001_floordecor"
+  }
+}

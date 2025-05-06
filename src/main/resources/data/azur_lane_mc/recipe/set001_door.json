@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": "minecraft:stick",
+    "P": "minecraft:paper"
+  },
+  "pattern": [
+    "SS",
+    "PP",
+    "SS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "azur_lane_mc:set001_door"
+  }
+}

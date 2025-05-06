@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "N": "minecraft:iron_nugget",
+    "B": "minecraft:iron_bars",
+    "G": "minecraft:glass_pane"
+  },
+  "pattern": [
+    " N ",
+    "BGB",
+    " N "
+  ],
+  "result": {
+    "count": 1,
+    "id": "azur_lane_mc:set001_lighting_c"
+  }
+}

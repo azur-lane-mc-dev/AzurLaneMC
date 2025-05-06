@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": "minecraft:paper",
+    "S": "minecraft:scaffolding"
+  },
+  "pattern": [
+    "SP",
+    "PP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "azur_lane_mc:set001_walls"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "minVersion": "0.0.1-SNAPSHOT",
+  "package": "com.moonshinerabbit.azurlanemc.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": ["MoveToTargetTaskAccessor"],
+  "client": [],
+  "injectors": {"defaultRequire": 1}
+}

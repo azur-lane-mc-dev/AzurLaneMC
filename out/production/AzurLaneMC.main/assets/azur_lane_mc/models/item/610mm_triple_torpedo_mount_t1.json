@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "azur_lane_mc:item/610mm_triple_torpedo_mount_t1"
+  }
+}

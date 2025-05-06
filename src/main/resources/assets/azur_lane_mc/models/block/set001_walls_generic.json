@@ -1,0 +1,21 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/cube_all",
+	"textures": {
+		"all": "azur_lane_mc:block/set001_walls_generic"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0.2, 0.2, 15.8, 15.8], "texture": "#all"},
+				"east": {"uv": [0.2, 0.2, 15.8, 15.8], "texture": "#all"},
+				"south": {"uv": [0.2, 0.2, 15.8, 15.8], "texture": "#all"},
+				"west": {"uv": [0.2, 0.2, 15.8, 15.8], "texture": "#all"},
+				"up": {"uv": [0.2, 0.2, 0.8, 0.8], "texture": "#all"},
+				"down": {"uv": [0.2, 0.2, 0.8, 0.8], "texture": "#all"}
+			}
+		}
+	]
+}

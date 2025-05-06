@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=north,planter_state=empty": {"model": "azur_lane_mc:block/set001_prop_d_empty"},
+    "facing=east,planter_state=empty": {"model": "azur_lane_mc:block/set001_prop_d_empty", "y": 90},
+    "facing=south,planter_state=empty": {"model": "azur_lane_mc:block/set001_prop_d_empty", "y": 180},
+    "facing=west,planter_state=empty": {"model": "azur_lane_mc:block/set001_prop_d_empty", "y": 270},
+
+    "facing=north,planter_state=planted": {"model": "azur_lane_mc:block/set001_prop_d_planted"},
+    "facing=east,planter_state=planted": {"model": "azur_lane_mc:block/set001_prop_d_planted", "y": 90},
+    "facing=south,planter_state=planted": {"model": "azur_lane_mc:block/set001_prop_d_planted", "y": 180},
+    "facing=west,planter_state=planted": {"model": "azur_lane_mc:block/set001_prop_d_planted", "y": 270},
+
+    "facing=north,planter_state=sprouted": {"model": "azur_lane_mc:block/set001_prop_d_sprouted"},
+    "facing=east,planter_state=sprouted": {"model": "azur_lane_mc:block/set001_prop_d_sprouted", "y": 90},
+    "facing=south,planter_state=sprouted": {"model": "azur_lane_mc:block/set001_prop_d_sprouted", "y": 180},
+    "facing=west,planter_state=sprouted": {"model": "azur_lane_mc:block/set001_prop_d_sprouted", "y": 270},
+
+    "facing=north,planter_state=growing": {"model": "azur_lane_mc:block/set001_prop_d_growing"},
+    "facing=east,planter_state=growing": {"model": "azur_lane_mc:block/set001_prop_d_growing", "y": 90},
+    "facing=south,planter_state=growing": {"model": "azur_lane_mc:block/set001_prop_d_growing", "y": 180},
+    "facing=west,planter_state=growing": {"model": "azur_lane_mc:block/set001_prop_d_growing", "y": 270},
+
+    "facing=north,planter_state=mature": {"model": "azur_lane_mc:block/set001_prop_d_mature"},
+    "facing=east,planter_state=mature": {"model": "azur_lane_mc:block/set001_prop_d_mature", "y": 90},
+    "facing=south,planter_state=mature": {"model": "azur_lane_mc:block/set001_prop_d_mature", "y": 180},
+    "facing=west,planter_state=mature": {"model": "azur_lane_mc:block/set001_prop_d_mature", "y": 270}
+  }
+}

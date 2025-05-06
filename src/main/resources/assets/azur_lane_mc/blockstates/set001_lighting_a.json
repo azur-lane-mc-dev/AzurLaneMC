@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "facing=north,activated=false": {"model": "azur_lane_mc:block/set001_lighting_a"},
+    "facing=east,activated=false": {"model": "azur_lane_mc:block/set001_lighting_a", "y": 90},
+    "facing=south,activated=false": {"model": "azur_lane_mc:block/set001_lighting_a", "y": 180},
+    "facing=west,activated=false": {"model": "azur_lane_mc:block/set001_lighting_a", "y": 270},
+
+    "facing=north,activated=true": {"model": "azur_lane_mc:block/set001_lighting_a"},
+    "facing=east,activated=true": {"model": "azur_lane_mc:block/set001_lighting_a", "y": 90},
+    "facing=south,activated=true": {"model": "azur_lane_mc:block/set001_lighting_a", "y": 180},
+    "facing=west,activated=true": {"model": "azur_lane_mc:block/set001_lighting_a", "y": 270}
+  }
+}

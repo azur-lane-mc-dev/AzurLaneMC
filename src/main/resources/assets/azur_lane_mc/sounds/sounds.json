@@ -1,0 +1,38 @@
+{
+  "akagi_breath": {
+    "subtitle": "sound.azur_lane_mc.akagi_breath",
+    "sounds": [
+      "azur_lane_mc:akagi_breath"
+    ]
+  },
+  "ayanami_breath": {
+    "subtitle": "sound.azur_lane_mc.ayanami_breath",
+    "sounds": [
+      "azur_lane_mc:ayanami_breath"
+    ]
+  },
+  "enterprise_breath": {
+    "subtitle": "sound.azur_lane_mc.enterprise_breath",
+    "sounds": [
+      "azur_lane_mc:enterprise_breath"
+    ]
+  },
+  "javelin_breath": {
+    "subtitle": "sound.azur_lane_mc.javelin_breath",
+    "sounds": [
+      "azur_lane_mc:javelin_breath"
+    ]
+  },
+  "laffey_breath": {
+    "subtitle": "sound.azur_lane_mc.laffey_breath",
+    "sounds": [
+      "azur_lane_mc:laffey_breath"
+    ]
+  },
+  "z23_breath": {
+    "subtitle": "sound.azur_lane_mc.z23_breath",
+    "sounds": [
+      "azur_lane_mc:z23_breath"
+    ]
+  }
+}

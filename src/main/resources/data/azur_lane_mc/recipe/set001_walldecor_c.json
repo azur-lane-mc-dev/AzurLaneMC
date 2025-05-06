@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": "minecraft:paper",
+    "W": "minecraft:white_dye",
+    "B": "minecraft:black_dye",
+    "Y": "minecraft:yellow_dye",
+    "O": "minecraft:orange_dye"
+  },
+  "pattern": [
+    " W ",
+    "YPO",
+    " B "
+  ],
+  "result": {
+    "count": 1,
+    "id": "azur_lane_mc:set001_walldecor_c"
+  }
+}

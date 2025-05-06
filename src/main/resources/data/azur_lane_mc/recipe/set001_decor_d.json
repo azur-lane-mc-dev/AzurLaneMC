@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "W": "minecraft:white_wool",
+    "P": "minecraft:pink_wool"
+  },
+  "pattern": [
+    "WP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "azur_lane_mc:set001_decor_d"
+  }
+}

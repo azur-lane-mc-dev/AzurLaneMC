@@ -1,0 +1,178 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/cube_all",
+	"ambientocclusion": false,
+	"textures": {
+		"all": "azur_lane_mc:item/set001_decor_ab"
+	},
+	"elements": [
+		{
+			"name": "platter",
+			"from": [2, 0, 4],
+			"to": [14, 1, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [0.2, 0.2, 15.8, 4.8], "texture": "#all"},
+				"east": {"uv": [6.2, 7.2, 6.8, 7.8], "texture": "#all"},
+				"south": {"uv": [0.2, 0.2, 15.8, 4.8], "texture": "#all"},
+				"west": {"uv": [6.2, 7.2, 6.8, 7.8], "texture": "#all"},
+				"up": {"uv": [0.2, 0.2, 15.8, 4.8], "texture": "#all"},
+				"down": {"uv": [0.2, 0.2, 15.8, 4.8], "texture": "#all"}
+			}
+		},
+		{
+			"name": "saucer",
+			"from": [9.5, 1, 4.5],
+			"to": [13.5, 1.5, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.5, 1, 7.5]},
+			"faces": {
+				"north": {"uv": [0.2, 5.2, 0.8, 5.8], "texture": "#all"},
+				"east": {"uv": [0.2, 5.2, 0.8, 5.8], "texture": "#all"},
+				"south": {"uv": [0.2, 5.2, 0.8, 5.8], "texture": "#all"},
+				"west": {"uv": [0.2, 5.2, 0.8, 5.8], "texture": "#all"},
+				"up": {"uv": [2.7, 13.7, 4.3, 15.3], "texture": "#all"},
+				"down": {"uv": [0.2, 5.2, 0.8, 5.8], "texture": "#all"}
+			}
+		},
+		{
+			"name": "saucer",
+			"from": [10.5, 1.5, 5.5],
+			"to": [12.5, 4, 7.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.5, 2, 7.5]},
+			"faces": {
+				"north": {"uv": [0.2, 11.2, 0.8, 15.8], "texture": "#all"},
+				"east": {"uv": [0.2, 11.2, 0.8, 15.8], "texture": "#all"},
+				"south": {"uv": [0.2, 11.2, 0.8, 15.8], "texture": "#all"},
+				"west": {"uv": [0.2, 11.2, 0.8, 15.8], "texture": "#all"},
+				"up": {"uv": [0.7, 13.7, 2.3, 15.3], "texture": "#all"},
+				"down": {"uv": [0.2, 5.2, 0.8, 5.8], "texture": "#all"}
+			}
+		},
+		{
+			"name": "kettle",
+			"from": [3, 1, 6],
+			"to": [8, 5, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [2, 1, 10]},
+			"faces": {
+				"north": {"uv": [0.2, 5.2, 5.8, 10.8], "texture": "#all"},
+				"east": {"uv": [2.2, 14.2, 7.8, 15.8], "texture": "#all"},
+				"south": {"uv": [0.2, 5.2, 5.8, 10.8], "texture": "#all"},
+				"west": {"uv": [1.2, 11.2, 7.8, 13.8], "texture": "#all"},
+				"up": {"uv": [0.2, 5.2, 0.8, 5.8], "texture": "#all"},
+				"down": {"uv": [0.2, 5.2, 0.8, 5.8], "texture": "#all"}
+			}
+		},
+		{
+			"name": "kettle",
+			"from": [8, 4, 8],
+			"to": [8.5, 8.5, 9],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [5.5, 4.425, 8.5]},
+			"faces": {
+				"north": {"uv": [6.2, 9.2, 6.8, 9.8], "texture": "#all"},
+				"east": {"uv": [6.2, 9.2, 6.8, 9.8], "texture": "#all"},
+				"south": {"uv": [6.2, 9.2, 6.8, 9.8], "texture": "#all"},
+				"west": {"uv": [6.2, 9.2, 6.8, 9.8], "texture": "#all"},
+				"up": {"uv": [6.2, 9.2, 6.8, 9.8], "texture": "#all"},
+				"down": {"uv": [6.2, 9.2, 6.8, 9.8], "texture": "#all"}
+			}
+		},
+		{
+			"name": "kettle",
+			"from": [2.5, 8.5, 8],
+			"to": [8.5, 9, 9],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [5.5, 4.425, 8.5]},
+			"faces": {
+				"north": {"uv": [6.2, 9.2, 6.8, 9.8], "texture": "#all"},
+				"east": {"uv": [6.2, 9.2, 6.8, 9.8], "texture": "#all"},
+				"south": {"uv": [6.2, 9.2, 6.8, 9.8], "texture": "#all"},
+				"west": {"uv": [6.2, 9.2, 6.8, 9.8], "texture": "#all"},
+				"up": {"uv": [6.2, 9.2, 6.8, 9.8], "texture": "#all"},
+				"down": {"uv": [6.2, 9.2, 6.8, 9.8], "texture": "#all"}
+			}
+		},
+		{
+			"name": "kettle",
+			"from": [2.5, 4, 8],
+			"to": [3, 8.5, 9],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [5.5, 4.425, 8.5]},
+			"faces": {
+				"north": {"uv": [6.2, 9.2, 6.8, 9.8], "texture": "#all"},
+				"east": {"uv": [6.2, 9.2, 6.8, 9.8], "texture": "#all"},
+				"south": {"uv": [6.2, 9.2, 6.8, 9.8], "texture": "#all"},
+				"west": {"uv": [6.2, 9.2, 6.8, 9.8], "texture": "#all"},
+				"up": {"uv": [6.2, 9.2, 6.8, 9.8], "texture": "#all"},
+				"down": {"uv": [6.2, 9.2, 6.8, 9.8], "texture": "#all"}
+			}
+		},
+		{
+			"name": "kettle",
+			"from": [3.2, 5, 6.2],
+			"to": [7.8, 6, 10.8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [2, 1.7, 10]},
+			"faces": {
+				"north": {"uv": [0.2, 5.2, 0.8, 5.8], "texture": "#all"},
+				"east": {"uv": [0.2, 5.2, 0.8, 5.8], "texture": "#all"},
+				"south": {"uv": [0.2, 5.2, 0.8, 5.8], "texture": "#all"},
+				"west": {"uv": [0.2, 5.2, 0.8, 5.8], "texture": "#all"},
+				"up": {"uv": [5.8, 11.2, 2.2, 14.8], "rotation": 180, "texture": "#all"},
+				"down": {"uv": [0.2, 5.2, 0.8, 5.8], "texture": "#all"}
+			}
+		},
+		{
+			"name": "kettle",
+			"from": [4.7, 5.7, 7.7],
+			"to": [6.3, 7, 9.3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [2, 2.7, 10]},
+			"faces": {
+				"north": {"uv": [0.2, 5.2, 0.8, 5.8], "texture": "#all"},
+				"east": {"uv": [0.2, 5.2, 0.8, 5.8], "texture": "#all"},
+				"south": {"uv": [0.2, 5.2, 0.8, 5.8], "texture": "#all"},
+				"west": {"uv": [0.2, 5.2, 0.8, 5.8], "texture": "#all"},
+				"up": {"uv": [0.2, 5.2, 0.8, 5.8], "texture": "#all"},
+				"down": {"uv": [0.2, 5.2, 0.8, 5.8], "texture": "#all"}
+			}
+		},
+		{
+			"name": "kettle",
+			"from": [8, 1, 8],
+			"to": [9, 6.4, 9],
+			"rotation": {"angle": -45, "axis": "z", "origin": [8.5, 3, 8.5]},
+			"faces": {
+				"north": {"uv": [0.2, 5.2, 0.8, 5.8], "texture": "#all"},
+				"east": {"uv": [0.2, 5.2, 0.8, 5.8], "texture": "#all"},
+				"south": {"uv": [0.2, 5.2, 0.8, 5.8], "texture": "#all"},
+				"west": {"uv": [0.2, 5.2, 0.8, 5.8], "texture": "#all"},
+				"up": {"uv": [2.7, 13.7, 4.3, 15.3], "texture": "#all"},
+				"down": {"uv": [0.2, 5.2, 0.8, 5.8], "texture": "#all"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-110, 0, -180],
+			"translation": [-6, 6.5, 6]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-110, 0, -180],
+			"translation": [-6, 6.5, 6]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 2.75, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 2.75, 0]
+		},
+		"ground": {
+			"translation": [0, 4, 0]
+		},
+		"gui": {
+			"rotation": [30, 150, 0],
+			"translation": [0, 3.5, 0],
+			"scale": [1.2, 1.2, 1.2]
+		},
+		"fixed": {
+			"translation": [0, 0, -2.25],
+			"scale": [1.2, 1.2, 1.2]
+		}
+	}
+}

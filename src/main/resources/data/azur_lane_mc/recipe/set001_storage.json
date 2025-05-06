@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": "minecraft:clay_ball",
+    "P": "minecraft:paper"
+  },
+  "pattern": [
+    " CP",
+    "CPP",
+    " PP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "azur_lane_mc:set001_storage"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "variant=generic": {"model": "azur_lane_mc:block/set001_walls_generic"},
+    "variant=baseboard": {"model": "azur_lane_mc:block/set001_walls_baseboard"},
+    "variant=middle": {"model": "azur_lane_mc:block/set001_walls_middle"},
+    "variant=topboard": {"model": "azur_lane_mc:block/set001_walls_topboard"}
+  }
+}

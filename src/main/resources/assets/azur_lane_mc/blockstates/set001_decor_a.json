@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": {"model": "azur_lane_mc:block/set001_decor_a"},
+    "facing=east": {"model": "azur_lane_mc:block/set001_decor_a", "y": 90},
+    "facing=south": {"model": "azur_lane_mc:block/set001_decor_a", "y": 180},
+    "facing=west": {"model": "azur_lane_mc:block/set001_decor_a", "y": 270}
+  }
+}

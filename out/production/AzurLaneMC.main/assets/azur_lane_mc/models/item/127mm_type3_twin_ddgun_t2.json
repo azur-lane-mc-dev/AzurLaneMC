@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "azur_lane_mc:item/127mm_type3_twin_ddgun_t2"
+  }
+}

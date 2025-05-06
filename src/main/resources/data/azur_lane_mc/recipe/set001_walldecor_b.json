@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": "minecraft:iron_nugget",
+    "P": "minecraft:paper"
+  },
+  "pattern": [
+    "I",
+    "P"
+  ],
+  "result": {
+    "count": 1,
+    "id": "azur_lane_mc:set001_walldecor_b"
+  }
+}

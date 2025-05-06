@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "D": "minecraft:dark_oak_planks",
+    "C": "minecraft:clay_ball"
+  },
+  "pattern": [
+    "CC",
+    "D "
+  ],
+  "result": {
+    "count": 1,
+    "id": "azur_lane_mc:set001_decor_a"
+  }
+}

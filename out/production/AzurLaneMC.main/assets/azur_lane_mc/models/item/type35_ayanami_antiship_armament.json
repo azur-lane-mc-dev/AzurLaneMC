@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "azur_lane_mc:item/type35_ayanami_antiship_armament"
+  }
+}

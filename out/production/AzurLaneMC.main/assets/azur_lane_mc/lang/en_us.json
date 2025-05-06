@@ -1,0 +1,19 @@
+{
+  "item_group.azur_lane_mc.kansen_equipment": "Kansen Equipment",
+
+
+  "item.azur_lane_mc.type35_ayanami_antiship_prototype": "Type-35 'Ayanami' Anti-Ship Prototype",
+  "item.azur_lane_mc.type35_ayanami_antiship_armament": "Type-35 'Ayanami' Anti-Ship Armament",
+
+  "item.azur_lane_mc.610mm_triple_torpedo_mount_t1": "610mm Triple Torpedo Mount Tier-I",
+  "item.azur_lane_mc.610mm_triple_torpedo_mount_t2": "610mm Triple Torpedo Mount Tier-II",
+  "item.azur_lane_mc.610mm_triple_torpedo_mount_t3": "610mm Triple Torpedo Mount Tier-III",
+
+  "item.azur_lane_mc.127mm_type3_twin_ddgun_t1": "127mm (Type 3) Twin DD Gun Tier-I",
+  "item.azur_lane_mc.127mm_type3_twin_ddgun_t2": "127mm (Type 3) Twin DD Gun Tier-II",
+  "item.azur_lane_mc.127mm_type3_twin_ddgun_t3": "127mm (Type 3) Twin DD Gun Tier-III",
+
+  "item.azur_lane_mc.25mm_type96_twin_aagun_t1": "25mm (Type 96) Twin AA Gun Tier-I",
+  "item.azur_lane_mc.25mm_type96_twin_aagun_t2": "25mm (Type 96) Twin AA Gun Tier-II",
+  "item.azur_lane_mc.25mm_type96_twin_aagun_t3": "25mm (Type 96) Twin AA Gun Tier-III"
+}

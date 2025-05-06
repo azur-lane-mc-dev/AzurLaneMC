@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "T": "minecraft:stick",
+    "S": "minecraft:string"
+  },
+  "pattern": [
+    "TTT",
+    "STS",
+    "TTT"
+  ],
+  "result": {
+    "count": 1,
+    "id": "azur_lane_mc:set001_prop_a"
+  }
+}

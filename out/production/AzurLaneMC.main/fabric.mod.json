@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "azur_lane_mc",
+  "version": "0.0.1-SNAPSHOT",
+  "name": "AzurLaneMC",
+  "description": "A Fabric-based mod which adapts concepts from the Azur Lane mobile game IP into Minecraft.",
+  "authors": ["moonshinerabbit"],
+  "contact": {},
+  "license": "AzurLaneMC: All Rights Reserved, GeckoLib: MIT, SmartBrainLib: MPL-2.0",
+  "image": "assets/icon.png",
+  "environment": "*",
+  "entrypoint": {
+    "main": ["com.moonshinerabbit.azurlanemc.azur_lane_mc.AzurLaneMCMain"],
+    "client": ["com.moonshinerabbit.azurlanemc.azur_lane_mc.AzurLaneMCClient"]
+    },
+  "mixin": ["azur_lane_mc.mixins.json"],
+  "depends": {
+    "fabricloader": "0.16.9",
+    "fabric-api": ">=0.116.1",
+    "fabric": "*",
+    "minecraft": "1.20.4",
+    "java": ">=17"
+    }
+}

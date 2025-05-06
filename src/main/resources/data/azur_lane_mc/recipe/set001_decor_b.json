@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": "minecraft:clay_ball",
+    "S": "minecraft:stick"
+  },
+  "pattern": [
+    "CCC",
+    "SSS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "azur_lane_mc:set001_decor_b"
+  }
+}

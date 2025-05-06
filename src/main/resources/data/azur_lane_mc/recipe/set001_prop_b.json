@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "L": "minecraft:lightning_rod",
+    "I": "minecraft:iron_ingot",
+    "N": "minecraft:iron_nugget",
+    "G": "minecraft:light_gray_stained_glass",
+    "S": "minecraft:stone_button"
+  },
+  "pattern": [
+    "ILI",
+    "SGI",
+    "N N"
+  ],
+  "result": {
+    "count": 1,
+    "id": "azur_lane_mc:set001_prop_b"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "azur_lane_mc:item/25mm_type96_twin_aagun_t2"
+  }
+}
