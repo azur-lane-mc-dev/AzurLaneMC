@@ -10,3 +10,5 @@ Deployment is only half of the story. You'll also need to keep an eye on morale 
 Come aboard, Commander, and test your fleet-managing chops in this mod!
 
 For questions about bugs or future releases, use GitHub or CurseForge.
+
+Current Versions available: Fabric API for 1.21.4
